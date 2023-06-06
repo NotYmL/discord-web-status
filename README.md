@@ -10,7 +10,7 @@
 ### Future plans
 - [ ] Rewrite in golang
 
-#### You can read more about discord ws base used here [here](https://github.com/NotYmL/discord-ws-base)
+#### You can read more about [discord ws base](https://github.com/NotYmL/discord-ws-base) used.
 
 
 ## Installation Guide
