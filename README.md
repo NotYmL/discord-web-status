@@ -9,11 +9,3 @@
   
 ### Future plans
 - [ ] Rewrite in golang
-
-#### You can read more about [discord ws base](https://github.com/NotYmL/discord-ws-base) used.
-
-
-## Installation Guide
-```sh
-git clone https://github.com/NotYmL/tag-finder.git && pip install requests
-```
